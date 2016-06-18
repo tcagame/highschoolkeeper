@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a4956af95019d47878f53a2fa2f3cfbe
+timeCreated: 1464413113
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - feedObject: {fileID: 124416, guid: fb6266dbc46e4488abc91467850366b3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
